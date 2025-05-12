@@ -108,4 +108,4 @@ Feel free to fork, modify, and improve. Contributions welcome!
 
 ## 📹 Demo Video
 
-Coming soon: [YouTube Demo](https://www.youtube.com/)
+ [Working Demo](https://youtube.com/shorts/o_pNGwB6f3k)
