@@ -57,16 +57,6 @@ This Power Relay Module is built to control high-voltage or high-current devices
 
 ---
 
-## 🛠️ Hardware Design
-
-- `SCH_Power-Relay-Module_2025-05-11.json`: Schematic source  
-- `PCB_PCB_Power-Relay-Module_2025-05-11.json`: PCB layout file  
-- Image preview of the PCB included
-
-Schematic and PCB created using **EasyEDA**.
-
----
-
 ## 💻 Sample Code (Arduino)
 
 ```cpp
@@ -95,35 +85,14 @@ void loop() {
     delay(1000);  // Wait for 1 second
   }
 }
-```
-
----
-
-## 📦 File Structure
 
 ```
-📁 Power-Relay-Module
-├── PCB_PCB_Power-Relay-Module_2025-05-11.json
-├── SCH_Power-Relay-Module_2025-05-11.json
-├── Power_Relay_Module_TOP.png
-├── Schematic_Power-Relay-Module_2025-05-11.pdf
-└── README.md
-```
-
----
-
 ## ⚠️ Notes
 
 - Always verify relay specs against your target load.
 - Use proper insulation/enclosure when working with AC mains.
 - Use a regulated 12V supply.
 - Mind jumper setting (HIGH or LOW trigger).
-
----
-
-## 🖼️ Preview
-
-![Top View PCB](Power_Relay_Module_TOP.png)
 
 ---
 
